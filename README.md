@@ -1,2 +1,2 @@
 # Restaurant-data-analysis
-Exploratory data analysis is performed on Zomato restaurants Bangalore data. Data cleaning and visualization is done to explore the data.
+Exploratory data analysis is performed on data containig the information of Zomato restaurants present in Bangalore. Interpreataion of Data, Cleaning of each column present and getting insights by Data visualization
